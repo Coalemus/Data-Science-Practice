@@ -1,12 +1,12 @@
-Postponed, Datasets not available, not subscribed to Pluralsight.
+Datasets may differ from site datasets to a Library loaded Dataset, adjust accordingly.
 
-Scikit Machine Learning
-https://www.pluralsight.com/guides/scikit-machine-learning/
+Scikit Machine Learning - started
+https://www.pluralsight.com/guides/scikit-machine-learning/ 
 
-Linear, Lasso, and Ridge Regression with scikit-learn
+Linear, Lasso, and Ridge Regression with scikit-learn - started
 https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn/
 
-Non-Linear Regression Trees with scikit-learn
+Non-Linear Regression Trees with scikit-learn - started
 https://www.pluralsight.com/guides/non-linear-regression-trees-scikit-learn/
 
 Machine Learning with Neural Networks Using scikit-learn
